@@ -1,0 +1,9 @@
+﻿  HashTable.cpp
+c:\users\nenad\source\repos\asp_dz3\asp_dz3\hashtable.h(91): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\nenad\source\repos\asp_dz3\asp_dz3\hashtable.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\nenad\source\repos\asp_dz3\asp_dz3\hashtable.cpp(53): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\nenad\source\repos\asp_dz3\asp_dz3\hashtable.cpp(62): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+c:\users\nenad\source\repos\asp_dz3\asp_dz3\hashtable.h(91): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  ASP_DZ3.vcxproj -> C:\Users\nenad\source\repos\ASP_DZ3\Debug\ASP_DZ3.exe
